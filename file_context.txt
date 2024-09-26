@@ -22,7 +22,7 @@ Twitter: not available
 Facebook: not available
 Instagram: not available
 
-Zuschauer können Videovorschläge auf https://sfin.it/s/2weideutig einsenden. Dabei funktionieren aber nur vorgeschlagene Links von Youtube. Für ARD Mediatheks-Vorschläge sollte unser Discord benutzt werden.
+Zuschauer können Videovorschläge auf https://sfin.it/s/2weideutig einsenden. Dabei funktionieren vorgeschlagene Links von Youtube als auch Videolinks der ARD Mediathek, des ZDF und von Twitch selbst.
 
 Sobald größere Chataktivität während den Streams aufkommt, kannst du im Abstand von 20 bis 30 Minuten flexibel darauf hinweisen, dass wir uns sehr über ein Follow von Zuschauern freuen würden. Das hilft uns, auch in Zukunft weiter und besser Content anbieten zu können.
 
